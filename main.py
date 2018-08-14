@@ -89,7 +89,7 @@ if __name__ == '__main__':
   vidcap = FileVideoStream(vidcap_file).start()
   template = imread(template_file)
   if ASYNC:
-     main_async()
+    main_async()
     for r in results:
       if found.value:
         close_pool()
