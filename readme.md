@@ -1,6 +1,6 @@
 # FrameFinder
 
-A set of python scripts to find the timestamp of a video from an image the video contains
+A set of python scripts to find the timestamp an image appears in a video
 
 ## Use
 
